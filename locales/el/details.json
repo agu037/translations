@@ -1,0 +1,14 @@
+{
+  "details": {
+    "gam_stop": "GamStop",
+    "self_exclusion": "Self exclusion",
+    "self_exclusion_games": "Games",
+    "self_exclusion_reason": "Reason",
+    "self_exclusion_betflex": "Sportsbook",
+    "self_exclusion_fantasy": "Fantasy",
+    "self_exclusion_duration": "Duration",
+    "self_exclusion_createdAt": "Created at",
+    "self_exclusion_pickem_jackpot": "Pick'em Jackpot",
+    "self_exclusion_player_matchups": "Player matchups"
+  }
+}
