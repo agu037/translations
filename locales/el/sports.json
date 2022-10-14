@@ -1,0 +1,32 @@
+{
+  "sports": {
+    "all": "Alle",
+    "lol": "League",
+    "mma": "MMA",
+    "tba": "TBA",
+    "csgo": "CS:GO",
+    "golf": "Golf",
+    "dota2": "DOTA 2",
+    "poker": "Poker",
+    "basket": "Basketball",
+    "futsal": "Futsal",
+    "hockey": "Ishockey",
+    "horses": "Horse racing",
+    "tennis": "Tennis",
+    "cricket": "Cricket",
+    "cycling": "Cycling",
+    "baseball": "Baseball",
+    "billiard": "Billiards",
+    "football": "Fotball",
+    "handball": "Håndball",
+    "allSports": "Alle sporter",
+    "all_sports": "Alle",
+    "e_football": "E-fotball",
+    "eurovision": "Eurovision",
+    "formula_one": "Formel 1",
+    "rocket_runout": "Rocket Runout",
+    "american_football": "Amerikansk fotball",
+    "live_matches_desc": "{amount} live renn",
+    "sport_selector_desc": "sport selector desc"
+  }
+}
