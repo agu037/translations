@@ -1,0 +1,11 @@
+{
+  "bets": {
+    "duel": "Duels",
+    "pivot": "Over/Under FP",
+    "total": "Total amount of goals",
+    "handicap": "Win with",
+    "matchWinner": "Match Winner",
+    "player_to_score": "Anytime Goalscorer",
+    "team_to_win_against": "Team to win against"
+  }
+}
