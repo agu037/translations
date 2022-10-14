@@ -1,9 +1,9 @@
 {
   "share": {
-    "copy": "Kopier URL",
-    "1_copy_link": "Kopier lenken ved å klikke på knappen under",
-    "2_paste_link": "Lim inn lenken på sosiale medier eller e-post til dine venner, og de kan lage sitt eget lag i denne turneringen!",
-    "how_to_share": "Hvordan dele:",
-    "explain_share": "Del denne unike lenken med vennene dine, og de vil kunne lage et lag i denne turneringen!"
+    "copy": "Αντιγραφή διεύθυνσης URL",
+    "1_copy_link": "Αντιγράψτε τον σύνδεσμο κάνοντας κλικ στο πράσινο κουμπί παρακάτω",
+    "2_paste_link": "Επικολλήστε τον σύνδεσμο στους φίλους σας και θα μεταφερθούν απευθείας στην οθόνη \"Δημιουργία ομάδας\"",
+    "how_to_share": "Πώς να κοινοποιήσετε:",
+    "explain_share": "Δώστε στους φίλους σας αυτόν το μοναδικόν σύνδεσμο, και θα μεταφερθούν απευθείας στη \"Δημιουργία ομάδας\" για αυτό το τουρνουά!"
   }
 }
