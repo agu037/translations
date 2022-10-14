@@ -1,0 +1,26 @@
+{
+  "front": {
+    "news": "nyheter",
+    "team": "eget lag",
+    "users": "brukere",
+    "create": "Sett opp ditt",
+    "created": "opprettet",
+    "you_are": "Du er",
+    "play_now": "Spill Nå",
+    "register": "Registrer deg",
+    "team_text": "Du velger spillere fra de aktuelle lagene med et fastsatt budsjett, og du får poeng basert på hvordan spillerne gjøre det i virkeligheten",
+    "registered": "registrerte",
+    "description": "FanTeam Daily Fantasy & Betting",
+    "team_manager": "manageren",
+    "features_title": "Take part in official Norsk Tipping tournaments",
+    "tournament_for": "of Tournaments",
+    "tournament_text": "Vi vil ha turneringer for gruppespillet, finalerundene i tillegg til daglige turneringer.",
+    "tournament_types": "Forskjellige typer",
+    "create_tournament": "Lag din egen turnering",
+    "see_more_articles": "Se flere artikler",
+    "team_manager_text": "Fantasy er en fortvoksende spilltype, hvor du er manager for ditt eget lag",
+    "private_tournaments": "private turneringer",
+    "see_more_tournaments": "Flere turneringer",
+    "what_fantasy_betting": "Hva er Fantasy Betting?"
+  }
+}
