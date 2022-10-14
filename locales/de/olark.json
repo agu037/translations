@@ -1,0 +1,27 @@
+{
+  "olark": {
+    "support": "Live Chat",
+    "away_message": "Our live support feature is currently offline, Please try again later.",
+    "welcome_title": "Click to Chat",
+    "chatting_title": "Now Chatting",
+    "chat_input_text": "Type here and hit enter to chat",
+    "name_input_text": "<Click here> and type your Name",
+    "welcome_message": "Welcome to FanTeam chat.  You can use this chat window to chat with our support.",
+    "email_input_text": "<Click here> and type your Email",
+    "phone_input_text": "<Click here> and type your Phone",
+    "send_button_text": "Send",
+    "unavailable_title": "Offline",
+    "ended_chat_message": "This conversation has ended.",
+    "offline_note_message": "We are offline, send us a message",
+    "introduction_messages": "Welcome, just fill out some brief information and click Start Chat to talk to us",
+    "introduction_error_text": "Please leave a name and email address so we can contact you in case we get disconnected",
+    "offline_note_error_text": "You must complete all fields and specify a valid email address",
+    "operator_is_typing_text": "is typing...",
+    "offline_note_sending_text": "Sending...",
+    "offline_note_thankyou_text": "Thank you for your message.  We will get back to you as soon as we can.",
+    "introduction_submit_button_text": "Start chat",
+    "operator_has_stopped_typing_text": "has stopped typing",
+    "disabled_input_text_when_convo_has_ended": "chat ended, refresh for new chat",
+    "disabled_panel_text_when_convo_has_ended": "This conversation has ended, but all you need to do is refresh the page to start a new one!"
+  }
+}
