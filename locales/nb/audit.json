@@ -1,7 +1,7 @@
 {
   "audit": {
-    "send_link": "Send link to reset",
-    "remember_password": "Please enter your registered email address and we will send you a link you can use to create a new password",
-    "explain_forgot_password": "Back to login"
+    "send_link": "Send lenke for å nullstille",
+    "remember_password": "Vennligst skriv inn din registrerte e-post adresse, så sender vi deg en lenke du kan bruke til å lage nytt passord",
+    "explain_forgot_password": "Tilbake til innlogging"
   }
 }
