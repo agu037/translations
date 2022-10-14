@@ -1,9 +1,9 @@
 {
   "share": {
-    "copy": "Copy URL",
-    "1_copy_link": "Copy the link by clicking the button below",
-    "2_paste_link": "Paste the link to your friends, and they will be taken directly to \"create team\" screen",
-    "how_to_share": "How to share:",
-    "explain_share": "Give your friends this unique link, and they will be taken to \"create team\" for this tournament!"
+    "copy": "Kopier URL",
+    "1_copy_link": "Kopier lenken ved å klikke på knappen under",
+    "2_paste_link": "Lim inn lenken på sosiale medier eller e-post til dine venner, og de kan lage sitt eget lag i denne turneringen!",
+    "how_to_share": "Hvordan dele:",
+    "explain_share": "Del denne unike lenken med vennene dine, og de vil kunne lage et lag i denne turneringen!"
   }
 }
