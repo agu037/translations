@@ -1,0 +1,19 @@
+{
+  "terms": {
+    "signup": "Registrer!",
+    "register": "Bekreft",
+    "about_signup": "Fantasy-brukernavn må minst inneholde tre små bokstaver og/eller tall.",
+    "introduction": "Fantasy er spillet hvor du kan sette opp ditt drømmelag basert på et virtuelt budsjett. Du kan konkurrere mot venner eller hele Norge. Resultatet baserer seg på hvor bra spillerne du plukket ut gjør det i virkelige kamper. \n\nVi ser etter deg som har lyst til å påvirke Fantasy-løsningen, gjennom å spille og gi tilbakemeldinger til Norsk Tipping. I første omgang testes det uten penger og premier, men ambisjonene er at du i neste fase vil kunne sette penger på laget ditt.",
+    "survey_link_": "Vilkårene for testdeltakelse",
+    "create_username": "Lag ditt Fantasy brukernavn",
+    "fantasyExperience": "Hvor mye har du spilt fantasy-spill tidligere?",
+    "fantasyExperience_1": "Aldri",
+    "fantasyExperience_2": "Har prøvd",
+    "fantasyExperience_3": "Innimellom",
+    "fantasyExperience_4": "Ukentlig",
+    "fantasyExperience_5": "Daglig",
+    "about_fantasy_details": "Fantasy er et spill hvor du som manager setter sammen ditt beste fantasylag innenfor et gitt budsjett. Spillerne dine får fantasypoeng basert på deres prestasjoner i den virkelige verden. Utfordringer er å finne spillere som har størst poensial for å oppnå fantasypoeng i samme turnering, enten turneringen varer over en hel sesong, én spillerrunde eller én enkeltkamp.",
+    "survey_text_acceptBetaUser": "Jeg godtar",
+    "survey_text_acceptTermsAndConditions": "Jeg samtykker til"
+  }
+}

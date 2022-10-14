@@ -1,0 +1,17 @@
+{
+  "users": {
+    "city": "By",
+    "role": "Rolle",
+    "email": "E-post",
+    "gender": "Kjønn",
+    "country": "Land",
+    "lastName": "Etternavn",
+    "lockedAt": "Låst",
+    "username": "Brukernavn",
+    "firstName": "Fornavn",
+    "confirmedAt": "Verifisert Dato",
+    "dateOfBirth": "Fødselsdato",
+    "verify_lockedAt": "Lås konto",
+    "verify_confirmedAt": "Verifiser manuelt"
+  }
+}

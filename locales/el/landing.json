@@ -1,0 +1,10 @@
+{
+  "landing": {
+    "players": "{count} spillere",
+    "biathlon": "SKISKYTING-MANAGER",
+    "join_desc": "Du får poeng basert på hvordan utøverne dine presterer i de ulike rennene. Du har 26 overganger tilgjengelig på laget ditt.",
+    "create_desc": "Ta ut et lag med åtte utøvere og én landslagssjef. Du har 100 millioner virtuelle penger å handle for, og det må også velges en lagkaptein.",
+    "participation_closed": "Deltakelse er lukket",
+    "statistics_heading_desc": "Statistikk for {round}"
+  }
+}

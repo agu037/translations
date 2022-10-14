@@ -1,0 +1,19 @@
+{
+  "books": {
+    "vs": "mot",
+    "win": "Vinner:",
+    "draw": "Uavgjort",
+    "points": "Fantasy poeng",
+    "duels.over": "Over {value}",
+    "duels.under": "Under {value}",
+    "book.duel.points": "Vinne dueller mot",
+    "book.match.goals": "Kampvinner:",
+    "book.pivot.goals": "Antall mål: over/under {value}.",
+    "book.match.points": "Poeng",
+    "book.pivot.points": "Over/Under {value} fantasy poeng.",
+    "book.range.points": "Over/under {value} Fantasy poeng",
+    "book.pivot.assists": "Målgivende: over/under {value}.",
+    "book.pivot.red_card": "Røde kort: over/under {value}.",
+    "book.pivot.yellow_card": "Gule kort: over/under {value}."
+  }
+}

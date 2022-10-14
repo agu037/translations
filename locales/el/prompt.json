@@ -1,0 +1,11 @@
+{
+  "prompt": {
+    "no": "Nei",
+    "yes": "Ja",
+    "cancel": "Avbryt",
+    "submit": "Bekreft",
+    "leaving": "Er du sikker på du ønsker å forlate denne siden?",
+    "offline": "Du er offline!",
+    "characters_limit": "Må være mellom 3 og 30 karakterer"
+  }
+}

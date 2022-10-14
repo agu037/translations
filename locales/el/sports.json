@@ -1,0 +1,14 @@
+{
+  "sports": {
+    "all": "Alle",
+    "hockey": "Ishockey",
+    "football": "Fotball",
+    "handball": "Håndball",
+    "allSports": "Alle sporter",
+    "all_sports": "Alle",
+    "e_football": "E-fotball",
+    "formula_one": "Formel 1",
+    "american_football": "Amerikansk fotball",
+    "live_matches_desc": "{amount} live renn"
+  }
+}

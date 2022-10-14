@@ -1,0 +1,28 @@
+{
+  "deposit": {
+    "back": "Tilbake",
+    "error": "En feil oppstod",
+    "amount": "Beløp",
+    "cancel": "Avbryt",
+    "custom": "Tilpass",
+    "select": "Velg betalingsmetode",
+    "support": "kundeservice",
+    "working": "Under behandling",
+    "continue": "Fortsett",
+    "happened": "Noe gikk galt. Vi beklager problemet.",
+    "how_much": "Hvor mye vil du sette inn?",
+    "no_bonus": "Jeg ønsker ingen bonus",
+    "problems": "Hvis du opplever noen problemer, kontakt",
+    "selectSum": "Velg et beløp",
+    "account_id": "e-postadresse",
+    "bonus.code": "Bonuskode",
+    "helperAmount": "Du kan angi et beløp fra {min} til {max}",
+    "bonusInfo.gain": "{bonusAmount} til din bonus saldo ({bonusPercent}% av innsatt beløp, men ikke mer enn {bonusLimit})",
+    "bonusInfo.title": "Denne bonusen gir deg:",
+    "bonusInfo.release": "Bonusen frigjøres ved å tilbakebetale {payoutPercent}% av kommisjonen som betales for hver turnering du deltar i",
+    "verificatioN_code": "Bekreftelseskode",
+    "bonusInfo.notFound": "Ikke funnet",
+    "bonusInfo.gainNoLimit": "{bonusAmount} til din bonus saldo ({bonusPercent}% av innsatt beløp)",
+    "bonusInfo.toggleBonus": "Jeg har en bonuskode"
+  }
+}

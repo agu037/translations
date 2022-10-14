@@ -1,0 +1,18 @@
+{
+  "field": {
+    "null": "Spillere",
+    "forward": "Angripere",
+    "defender": "Forsvarere",
+    "goalkeeper": "Keeper",
+    "midfielder": "Midtbane",
+    "share_team": "Del laget ditt",
+    "share_text": "Turneringen starter snart. Bli med å se om du kan slå meg!",
+    "substitutions": "Innbyttere",
+    "no_peeking.body": "Du kan se laget til andre brukere 1 minutt før runden starter",
+    "no_peeking.header": "Ingen kikking på andre sine lag før runden har startet! ;)",
+    "private_tournament": "Du kan ikke bli med i denne private turneringen",
+    "automaticSubstitution": "Automatiske bytter utført",
+    "no_peeking.body_multi": "Du kan se andre brukeres lag når runden starter",
+    "no_peeking.header_multi": "Ingen kikking på andre sine lag før runden har startet! ;)"
+  }
+}

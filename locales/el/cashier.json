@@ -1,0 +1,15 @@
+{
+  "cashier": {
+    "gaming": "Spill transaksjoner",
+    "betslip": "Kupong",
+    "deposit": "Innskudd",
+    "tickets": "Turneringsbilletter",
+    "withdraw": "Uttak",
+    "financial": "Finansielle transaksjoner",
+    "used_tickets": "Arkiverte billetter",
+    "availiable_tickets": "Tilgjengelige billetter",
+    "gamingTransactions": "Spill transaksjoner",
+    "available_tournaments": "Tilgjengelige turneringer",
+    "financialTransactions": "Finansielle transaksjoner"
+  }
+}
