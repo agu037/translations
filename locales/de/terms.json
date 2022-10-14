@@ -1,0 +1,12 @@
+{
+  "terms": {
+    "cancel": "cancel",
+    "unauthorized": "unauthorized",
+    "username_invalid": "username invalid",
+    "username_required": "username required",
+    "region_not_allowed": "region not allowed",
+    "about_username_heading": "about username heading",
+    "about_username_desription_one": "about username desription one",
+    "about_username_desription_two": "about username desription two"
+  }
+}
