@@ -1,0 +1,7 @@
+{
+  "prizes": {
+    "prizes": "Prizes for tournament",
+    "place_single": "Rank {place}",
+    "place_grouped": "Rank {from}-{to}"
+  }
+}
