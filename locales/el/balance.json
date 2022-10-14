@@ -1,12 +1,12 @@
 {
   "balance": {
-    "bonus": "Bonus",
-    "current": "Balanse",
-    "deposit": "Innskudd",
-    "in_play": "I spill",
-    "tickets": "Billetter",
+    "bonus": "Μπόνους",
+    "current": "Υπόλοιπο",
+    "deposit": "Κατάθεση",
+    "in_play": "Παίζεται",
+    "tickets": "Εισιτήρια",
     "add_deposit": "Add deposit",
-    "head_in_play": "i spill",
-    "verification": "Verifikasjon"
+    "head_in_play": "παίζεται",
+    "verification": "Επαλήθευση"
   }
 }
