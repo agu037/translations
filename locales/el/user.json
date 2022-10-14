@@ -1,0 +1,29 @@
+{
+  "user": {
+    "male": "Mann",
+    "role": "Rolle",
+    "bonus": "Bonus",
+    "female": "Kvinne",
+    "gaming": "Spill transaksjoner",
+    "success": "Endringer er vellykket!",
+    "tickets": "Tournament Tickets",
+    "financial": "Finansielle transaksjoner",
+    "details.id": "ID",
+    "not_created": "Registration can not be completed now. Please try again later",
+    "slug_is_free": "Code is available",
+    "unauthorized": "User is unauthorized",
+    "details.email": "Email",
+    "details.title": "Bruker detaljer",
+    "not_authorized": "To place a bet please log in to your account",
+    "details.address": "Adresse",
+    "details.fullname": "Fullt navn",
+    "details.location": "Sted",
+    "details.username": "Brukernavn",
+    "super_admin_only": "Only Super admins can perform this action",
+    "details.created_at": "Opprettet",
+    "different_affiliate": "This user does not belong to your campaign",
+    "details.phone_number": "Phone",
+    "details.date_of_birth": "Fødselsdato",
+    "not-allowed.player_matchup_slips.create": "create"
+  }
+}
