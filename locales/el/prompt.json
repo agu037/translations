@@ -1,0 +1,17 @@
+{
+  "prompt": {
+    "no": "Nei",
+    "ok": "OK",
+    "yes": "Ja",
+    "title": "Unexpected error occured",
+    "cancel": "Avbryt",
+    "submit": "Bekreft",
+    "leaving": "Er du sikker på du ønsker å forlate denne siden?",
+    "message": "Our team has been notified and currently is solving the issue",
+    "offline": "Du er offline!",
+    "gamstop_no": "Close",
+    "gamstop_yes": "Contact support",
+    "payment_status": "Payment status",
+    "characters_limit": "Må være mellom 3 og 30 karakterer"
+  }
+}
