@@ -1,3 +1,5 @@
 {
-  "modal": {}
+  "modal": {
+    "join-friend-tournament": "Συμμετοχή σε τουρνουά φίλου"
+  }
 }

@@ -1,17 +1,20 @@
 {
   "chat": {
-    "add_message": "Melding",
-    "muted_message": "Administratoren har midlertidig slått av din mulighet til å sende meldinger. Suspensjonen vil bli fjernet:",
-    "hide_modal.yes": "Ja",
-    "minimized_header": "Turnerings chat",
-    "mute_modal.apply": "Bruk",
-    "mute_modal.hours": "Timer",
-    "hide_modal.cancel": "Avbryt",
-    "hide_modal.header": "Skjul melding",
-    "mute_modal.header": "Demp bruker",
-    "mute_modal.unmute": "Fjern demping for bruker",
-    "mute_modal.mute_user": "Demp bruker {username} for:",
-    "mute_modal.muted_until": "Brukeren er for øyeblikket dempet",
-    "hide_modal.confirmation": "Er du sikker på at du vil skjule denne meldingen?"
+    "send": "Αποστολή",
+    "admin": "Διαχειριστής",
+    "censored": "Λογοκρίθηκε από το chat",
+    "add_message": "Μήνυμα",
+    "muted_message": "Ένας διαχειριστής έχει αναστείλει προσωρινά τη δυνατότητά σας να στέλνετε μηνύματα. Η αναστολή θα αρθεί:",
+    "hide_modal.yes": "Ναι",
+    "minimized_header": "Chat τουρνουά",
+    "mute_modal.apply": "Εφαρμογή",
+    "mute_modal.hours": "Ώρες",
+    "hide_modal.cancel": "Άκυρο",
+    "hide_modal.header": "Απόκρυψη μηνύματος",
+    "mute_modal.header": "Σίγαση χρήστη",
+    "mute_modal.unmute": "Κατάργηση σίγασης",
+    "mute_modal.mute_user": "Σίγαση χρήστη {username} για:",
+    "mute_modal.muted_until": "Αυτός ο χρήστης είναι επί του παρόντος σε σίγαση έως:",
+    "hide_modal.confirmation": "Θέλετε σίγουρα να αποκρύψετε αυτό το μήνυμα;"
   }
 }

@@ -1,7 +1,7 @@
 {
   "bet": {
-    "user.cant_afford": "Ikke nok penger",
-    "users.cant_afford": "Ikke nok midler",
-    "user.exceeds_limit": "Du overskrider grenser satt av deg"
+    "user.cant_afford": "Το υπόλοιπο δεν επαρκεί",
+    "users.cant_afford": "Το υπόλοιπο δεν επαρκεί",
+    "user.exceeds_limit": "Υπερβαίνετε τα όρια που έχετε ορίσει εσείς"
   }
 }

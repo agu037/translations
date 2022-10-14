@@ -1,11 +1,22 @@
 {
   "my_bets": {
-    "draw": "Uavgjort",
-    "lost": "Tapt",
-    "stake": "Innsats",
-    "payout": "Utbetaling",
-    "betslip": "Kupong-ID",
-    "created": "Spill plassert",
-    "pending": "Avventer"
+    "won": "Κερδισμένο",
+    "draw": "Ισοπαλία",
+    "lost": "Χαμένο",
+    "odds": "Αποδόσεις",
+    "type": "Τύπος",
+    "multi": "Πολλαπλά ({size})",
+    "stake": "Ποσό στοιχήματος",
+    "payout": "Πληρωμή",
+    "refund": "Επιστροφή χρημάτων",
+    "single": "Μονό στοίχημα",
+    "status": "Κατάσταση",
+    "betslip": "Αναγνωριστικό δελτίου στοιχήματος",
+    "created": "Το στοίχημα τοποθετήθηκε στις",
+    "pending": "Σε εκκρεμότητα",
+    "game_type": "Τύπος παιχνιδιού",
+    "multi_bet": "Παρολί",
+    "single_bet": "Μονό",
+    "matchup_modal.header": "Ταμπλό Matchups"
   }
 }

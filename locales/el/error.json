@@ -1,3 +1,5 @@
 {
-  "error": {}
+  "error": {
+    "error_bet_user_cant_afford_message_bet_user_cant_afford": "Το υπόλοιπο δεν επαρκεί"
+  }
 }

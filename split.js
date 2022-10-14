@@ -1,5 +1,6 @@
 const fs = require('fs')
-const lang = require('./no.json')
+const code = 'el'
+const lang = require(`./${code}.json`)
 
 for(const [scope, keys] of Object.entries(lang)) {
   try {
@@ -12,7 +13,7 @@ for(const [scope, keys] of Object.entries(lang)) {
     for(const [key, value] of Object.entries(defaults[scope.toLowerCase()])) {
       if(value == keys[key]) delete keys[key]
     }
-    fs.writeFileSync(`./locales/el/${scope}.json`, JSON.stringify({ [scope]:keys }, null, 2))
+    fs.writeFileSync(`./locales/${code}/${scope}.json`, JSON.stringify({ [scope]:keys }, null, 2))
   } catch(err) {
     console.warn(err)
   }

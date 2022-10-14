@@ -1,3 +1,6 @@
 {
-  "admin": {}
+  "admin": {
+    "navigation.cost": "Κόστος",
+    "navigation.guarantees": "Εγγυήσεις"
+  }
 }

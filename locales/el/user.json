@@ -1,17 +1,19 @@
 {
   "user": {
-    "male": "Mann",
-    "role": "Rolle",
-    "female": "Kvinne",
-    "gaming": "Spill transaksjoner",
-    "success": "Endringer er vellykket!",
-    "financial": "Finansielle transaksjoner",
-    "details.title": "Bruker detaljer",
-    "details.address": "Adresse",
-    "details.fullname": "Fullt navn",
-    "details.location": "Sted",
-    "details.username": "Brukernavn",
-    "details.created_at": "Opprettet",
-    "details.date_of_birth": "Fødselsdato"
+    "male": "Άνδρας",
+    "role": "Ρόλος",
+    "female": "Γυναίκα",
+    "gaming": "Συναλλαγές τυχερών παιχνιδιών",
+    "success": "Άλλαξε επιτυχώς!",
+    "financial": "Οικονομικές συναλλαγές",
+    "details.id": "Αναγνωριστικό",
+    "details.title": "Λεπτομέρειες χρήστη",
+    "details.address": "Διεύθυνση",
+    "details.fullname": "Πλήρες όνομα",
+    "details.location": "Τοποθεσία",
+    "details.username": "Όνομα χρήστη",
+    "details.created_at": "Δημιουργήθηκε στις",
+    "details.phone_number": "Τηλέφωνο",
+    "details.date_of_birth": "Ημερομηνία γέννησης"
   }
 }

@@ -1,5 +1,7 @@
 {
   "prizes": {
-    "prizes": "Premier for turneringen"
+    "prizes": "Έπαθλα για το τουρνουά",
+    "place_single": "Κατάταξη {place}",
+    "place_grouped": "Κατάταξη {from}-{to}"
   }
 }

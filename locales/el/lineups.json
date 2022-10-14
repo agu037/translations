@@ -1,18 +1,24 @@
 {
   "lineups": {
-    "bench": "Bekreftet på benken",
-    "title": "Alle lag",
-    "refuted": "Spiller ikke",
-    "expected": "Forventet å starte",
-    "possible": "Starter muligens",
-    "all_teams": "Alle lag",
-    "confirmed": "Bekreftet startoppstilling",
-    "odds_count": "Spill",
-    "unexpected": "Ikke forventet å starte",
-    "no_expected": "Ingen forventet startoppstilling enda",
-    "last_updated": "Sist oppdatert:",
-    "positions.forward": "ANG",
-    "positions.defender": "FOR",
-    "positions.goalkeeper": "MV"
+    "bench": "Επιβεβαιωμένος στον πάγκο",
+    "refuted": "Δεν παίζει",
+    "expected": "Αναμένεται να ξεκινήσει",
+    "possible": "Πιθανό να ξεκινήσει",
+    "all_teams": "Όλες οι ομάδες",
+    "confirmed": "Επιβεβαιωμένος στην αρχική σύνθεση",
+    "odds_count": "Στοιχήματα",
+    "unexpected": "Δεν αναμένεται να ξεκινήσει",
+    "no_expected": "Δεν υπάρχουν ακόμα αναμενόμενες συνθέσεις",
+    "last_updated": "Τελευταία ενημέρωση:",
+    "positions.men": "ΑΝΔΡΕΣ",
+    "positions.center": "Σέντερ",
+    "positions.forward": "Επιθετικός",
+    "positions.defender": "Αμυντικός",
+    "positions.goalkeeper": "Τερματοφύλακας",
+    "positions.midfielder": "Μέσος",
+    "positions.guard_point": "Ποϊντ Γκαρντ",
+    "positions.forward_point": "Ποϊντ Φοργουορντ",
+    "positions.forward_small": "Σμολ Φοργουορντ",
+    "positions.guard_shooting": "Σουτινγκ Γκαρντ"
   }
 }

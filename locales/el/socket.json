@@ -1,6 +1,6 @@
 {
   "socket": {
-    "online": "Du er tilkoblet!",
-    "offline": "Du er offline. Kobler til på nytt..."
+    "online": "Τώτα έχετε επανασυνδεθεί!",
+    "offline": "Είστε εκτός σύνδεσης, γίνεται επανασύνδεση..."
   }
 }

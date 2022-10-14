@@ -1,15 +1,23 @@
 {
   "cashier": {
-    "gaming": "Spill transaksjoner",
-    "betslip": "Kupong",
-    "deposit": "Innskudd",
-    "tickets": "Turneringsbilletter",
-    "withdraw": "Uttak",
-    "financial": "Finansielle transaksjoner",
-    "used_tickets": "Arkiverte billetter",
-    "availiable_tickets": "Tilgjengelige billetter",
-    "gamingTransactions": "Spill transaksjoner",
-    "available_tournaments": "Tilgjengelige turneringer",
-    "financialTransactions": "Finansielle transaksjoner"
+    "id": "Αναγνωριστικό",
+    "show": "Εμφάνιση",
+    "gaming": "Συναλλαγές τυχερών παιχνιδιών",
+    "betslip": "Δελτίο στοιχήματος",
+    "deposit": "Κατάθεση",
+    "display": "Εμφάνιση",
+    "tickets": "Εισιτήρια τουρνουά",
+    "provider": "Πάροχος",
+    "withdraw": "Εξαργύρωση",
+    "financial": "Οικονομικές συναλλαγές",
+    "betslip_id": "Αναγνωριστικό δελτίου στοιχήματος",
+    "display_all": "Εμφάνιση όλων",
+    "used_tickets": "Παλιότερα tickets",
+    "rows_per_page": "σειρές ανά σελίδα",
+    "transaction_id": "Αναγνωριστικό συναλλαγής",
+    "availiable_tickets": "Διαθέσιμα tickets",
+    "gamingTransactions": "Συναλλαγές τυχερών παιχνιδιών",
+    "available_tournaments": "Διαθέσιμα τουρνουά",
+    "financialTransactions": "Οικονομικές συναλλαγές"
   }
 }
