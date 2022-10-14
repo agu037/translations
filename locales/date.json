@@ -1,0 +1,10 @@
+{
+  "date": {
+    "lastDay": "[Yesterday,] Do [of] MMM",
+    "nextDay": "[Tomorrow,] Do [of] MMM",
+    "sameDay": "[Today,] Do [of] MMM",
+    "lastWeek": "[Last] dddd, Do [of] MMM",
+    "nextWeek": "[Next] dddd, Do [of] MMM",
+    "sameElse": "Do [of] MMM, YYYY"
+  }
+}
