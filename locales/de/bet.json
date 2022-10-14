@@ -1,0 +1,12 @@
+{
+  "bet": {
+    "user.exclude": "You are self-excluded!",
+    "user.cant_afford": "Not enough funds",
+    "user.minimum_odds": "Not enough funds, bonus money can`t be used due to not met minimum odds",
+    "user.pep_required": "Security check is failed for the user. If this is not correct, please contact support",
+    "users.cant_afford": "Not enough funds",
+    "user.exceeds_limit": "You are exceeding limits set by you",
+    "user.identity_required": "Identity check is failed for the user. If this is not correct, please contact support",
+    "user.country_restricted": "Participations in tournaments that includes real money prizes are not available from your country at this time due to regulations from your government. For further questions, please contact support"
+  }
+}
