@@ -1,0 +1,9 @@
+{
+  "sport": {
+    "cycling": "cycling",
+    "football": "football",
+    "all_sports": "all sports",
+    "formula_one": "formula one",
+    "american_football": "american football"
+  }
+}
