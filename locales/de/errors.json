@@ -1,0 +1,5 @@
+{
+  "errors": {
+    "tournament.per_user_limit": "You reached the maximum number of entries per user"
+  }
+}
