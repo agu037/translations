@@ -1,5 +1,5 @@
 {
   "fantasy": {
-    "currency": "${amount}"
+    "currency": "{amount}"
   }
 }
