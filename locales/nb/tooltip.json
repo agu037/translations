@@ -1,3 +1,29 @@
 {
-  "tooltip": {}
+  "tooltip": {
+    "tournament_duration": "Turneringsvarighet",
+    "tournament_labels.budget": "Turngeringsbudsjett",
+    "tournament_labels.pursuit": "Pursuit spilltype",
+    "betflex_labels.payout_info": "Potensiell gevinst",
+    "betflex_labels.profit_info": "Potensiell gevinst",
+    "tournament_labels.flexi_six": "Fleksi-seks spilltype",
+    "tournament_labels.late_join": "Sen registrering",
+    "tournament_labels.late_swap": "Late Swap-turnering",
+    "tournament_labels.wildcards": "Denne turneringen har wildcard(s)",
+    "tournament_labels.entry_code": "Adgangskode",
+    "tournament_labels.flexi_five": "Fleksi-fem spilltype",
+    "betflex_labels.liability_info": "Potensielt tap",
+    "tournament_labels.five_a_side": "Five-a-side spilltype",
+    "tournament_labels.ticket_only": "Kun billett",
+    "tournament_over_gpp_explained": "Ekstra deltakelser over dette punktet vil øke premiepotten ytterligere",
+    "tournament_labels.no_vice_captain": "Du trenger ingen visekaptein i denne turneringen",
+    "tournament_labels.winner_takes_all": "Vinneren tar alt",
+    "tournament_labels.basket_flexi_five": "Flexi-Fem spilltype",
+    "tournament_labels.double_or_nothing": "Kvitt eller dobbelt",
+    "tournament_labels.basket_five_a_side": "Five-a-side spilltype",
+    "tournament_labels.network_tournament": "Nettverksturnering",
+    "tournament_labels.password_protected": "Privat turnering",
+    "tournament_labels.baseball_flexi_five": "Fleksi-fem spilltype",
+    "tournament_labels.clean_sheet_stack_penalty": "Denne turneringen har \"stacking penalty\"",
+    "tournament_labels.no_captain_and_vice_captain": "Kaptein/visekaptein er ikke nødvendig i denne turneringen"
+  }
 }

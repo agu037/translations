@@ -1,3 +1,5 @@
 {
-  "div": {}
+  "div": {
+    "state.pending_confirmation": "Venter på bekreftelse"
+  }
 }

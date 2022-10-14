@@ -1,3 +1,19 @@
 {
-  "tickets": {}
+  "tickets": {
+    "name": "Navn",
+    "type": "Turnering",
+    "buyIn": "Verdi",
+    "dueAt": "Brukt/Utgått",
+    "dueIn": "Utløper",
+    "unused": "Ubenyttet",
+    "used_for": "Deltatt (se lag)",
+    "createdAt": "Utstedt",
+    "tournament": "Tilgjengelige turneringer",
+    "unregistred": "Lag avregistrert",
+    "view_tickets": "Se",
+    "any_tournament": "Åpen billett",
+    "no_tournaments": "Ingen turneringer",
+    "do_not_have_transactions": "Du har ingen turneringsbilletter",
+    "do_not_have_available_transactions": "Du har ingen tilgjengelige billetter"
+  }
 }

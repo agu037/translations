@@ -1,3 +1,18 @@
 {
-  "lineups": {}
+  "lineups": {
+    "bench": "Bekreftet på benken",
+    "title": "Alle lag",
+    "refuted": "Spiller ikke",
+    "expected": "Forventet å starte",
+    "possible": "Starter muligens",
+    "all_teams": "Alle lag",
+    "confirmed": "Bekreftet startoppstilling",
+    "odds_count": "Spill",
+    "unexpected": "Ikke forventet å starte",
+    "no_expected": "Ingen forventet startoppstilling enda",
+    "last_updated": "Sist oppdatert:",
+    "positions.forward": "ANG",
+    "positions.defender": "FOR",
+    "positions.goalkeeper": "MV"
+  }
 }

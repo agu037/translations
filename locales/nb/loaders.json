@@ -1,3 +1,5 @@
 {
-  "loaders": {}
+  "loaders": {
+    "loading": "Laster"
+  }
 }

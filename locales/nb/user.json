@@ -1,3 +1,17 @@
 {
-  "user": {}
+  "user": {
+    "male": "Mann",
+    "role": "Rolle",
+    "female": "Kvinne",
+    "gaming": "Spill transaksjoner",
+    "success": "Endringer er vellykket!",
+    "financial": "Finansielle transaksjoner",
+    "details.title": "Bruker detaljer",
+    "details.address": "Adresse",
+    "details.fullname": "Fullt navn",
+    "details.location": "Sted",
+    "details.username": "Brukernavn",
+    "details.created_at": "Opprettet",
+    "details.date_of_birth": "Fødselsdato"
+  }
 }

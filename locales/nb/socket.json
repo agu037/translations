@@ -1,3 +1,6 @@
 {
-  "socket": {}
+  "socket": {
+    "online": "Du er tilkoblet!",
+    "offline": "Du er offline. Kobler til på nytt..."
+  }
 }

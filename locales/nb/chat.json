@@ -1,3 +1,17 @@
 {
-  "chat": {}
+  "chat": {
+    "add_message": "Melding",
+    "muted_message": "Administratoren har midlertidig slått av din mulighet til å sende meldinger. Suspensjonen vil bli fjernet:",
+    "hide_modal.yes": "Ja",
+    "minimized_header": "Turnerings chat",
+    "mute_modal.apply": "Bruk",
+    "mute_modal.hours": "Timer",
+    "hide_modal.cancel": "Avbryt",
+    "hide_modal.header": "Skjul melding",
+    "mute_modal.header": "Demp bruker",
+    "mute_modal.unmute": "Fjern demping for bruker",
+    "mute_modal.mute_user": "Demp bruker {username} for:",
+    "mute_modal.muted_until": "Brukeren er for øyeblikket dempet",
+    "hide_modal.confirmation": "Er du sikker på at du vil skjule denne meldingen?"
+  }
 }

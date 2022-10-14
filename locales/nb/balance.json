@@ -1,3 +1,10 @@
 {
-  "balance": {}
+  "balance": {
+    "current": "Balanse",
+    "deposit": "Innskudd",
+    "in_play": "I spill",
+    "tickets": "Billetter",
+    "head_in_play": "i spill",
+    "verification": "Verifikasjon"
+  }
 }

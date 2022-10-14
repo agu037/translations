@@ -1,3 +1,8 @@
 {
-  "chat_v2": {}
+  "chat_v2": {
+    "header": "TURNERINGSCHAT",
+    "no_messages": "Ingen aktivitet enda",
+    "send_message": "Send en melding",
+    "more_messages_below": "Flere meldinger nedenfor"
+  }
 }

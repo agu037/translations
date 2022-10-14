@@ -1,3 +1,34 @@
 {
-  "book": {}
+  "book": {
+    "bets": "Spill",
+    "draw": "Uavgjort",
+    "edit": "Rediger",
+    "save": "Lagre",
+    "goals": "Mål",
+    "amount": "Beløp",
+    "cancel": "Avbryt",
+    "enable": "Aktivere",
+    "points": "Poeng",
+    "remove": "Fjern",
+    "assists": "Målgivende",
+    "disable": "Deaktivere",
+    "red_card": "Rødt kort",
+    "duel_odds": "Duell odds",
+    "liability": "Eksponering",
+    "type_duel": "Spillere",
+    "commission": "Avgift",
+    "lay-header": "Legg (satse imot)",
+    "back-header": "Støtt (satse for)",
+    "see_details": "Se detaljer",
+    "total_stake": "Innsats",
+    "yellow_card": "Gult kort",
+    "odds_required": "Oddsen kan ikke være satt til null. Vennligst legg inn en gyldig verdi",
+    "potential_loss": "Tap",
+    "points_required": "Poeng kan ikke være satt til null. Vennligst legg inn en gyldig verdi",
+    "points_validate": "Poeng kan ikke være det samme, vennligst velg et spill med andre poeng.",
+    "gameweek_validate": "Du kan ikke legge til spill i en tidligere spillrunde",
+    "odds_saved_success": "Lagring vellykket",
+    "live_match_validate": "Du kan ikke legge til spill i en pågående kamp",
+    "delete_duel_validate": "Du kan ikke slette ytterligere duell odds. Vennligst slett hele boken for å fortsette"
+  }
 }
