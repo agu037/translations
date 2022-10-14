@@ -15,7 +15,7 @@
     "player_has_insufficient_funds": "player has insufficient funds",
     "error_bet_user_close_message_bet_user_close": "error bet user close message bet user close",
     "error_bet_user_suspended_message_bet_user_suspended": "You cannot participate due to a suspended account. Please contact support for more info.",
-    "error_bet_user_cant_afford_message_bet_user_cant_afford": "Not enough funds",
+    "error_bet_user_cant_afford_message_bet_user_cant_afford": "Το υπόλοιπο δεν επαρκεί",
     "error_bet_user_minimum_odds_message_bet_user_minimum_odds": "You do not have enough funds and the odds is too low to use your bonus-balance",
     "error_bet_user_pep_required_message_bet_user_pep_required": "Security check is failed for the user. If this is not correct, please contact support",
     "error_bet_user_admin_restriction_message_bet_user_admin_restriction": "Your account is currently restricted from playing this product. Contact support@fanteam.com for more information",
