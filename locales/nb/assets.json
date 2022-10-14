@@ -1,0 +1,9 @@
+{
+  "assets": {
+    "demo": "Demo",
+    "teams": "Teams",
+    "prices": "Prices",
+    "seasons": "Seasons",
+    "team-stats": "Team Stats"
+  }
+}
