@@ -1,10 +1,10 @@
 {
   "date": {
-    "lastDay": "[Yesterday,] Do [of] MMM",
-    "nextDay": "[Tomorrow,] Do [of] MMM",
-    "sameDay": "[Today,] Do [of] MMM",
-    "lastWeek": "[Last] dddd, Do [of] MMM",
-    "nextWeek": "[Next] dddd, Do [of] MMM",
-    "sameElse": "Do [of] MMM, YYYY"
+    "lastDay": "[I går, den] Do MMM",
+    "nextDay": "[I morgen, den] Do MMM",
+    "sameDay": "[I dag, den] Do MMM",
+    "lastWeek": "[Forrige] dddd[, den] Do MMM",
+    "nextWeek": "[Neste] dddd[, den] Do MMM",
+    "sameElse": "DD/MM/YYYY"
   }
 }
