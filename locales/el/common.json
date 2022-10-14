@@ -1,0 +1,15 @@
+{
+  "common": {
+    "ok": "OK",
+    "or": "Or",
+    "enter": "Enter",
+    "later": "Later",
+    "cancel": "Avbryt",
+    "no_data": "No data yet",
+    "continue": "Continue",
+    "update_the_app": "Update the app",
+    "update_is_available": "Update is available",
+    "app_update_available": "A new version of the app is now available. Please download the latest version of FanTeam from the App Store.",
+    "something_went_wrong_error": "Something went wrong"
+  }
+}
