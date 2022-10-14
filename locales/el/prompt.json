@@ -1,17 +1,17 @@
 {
   "prompt": {
-    "no": "Nei",
-    "ok": "OK",
-    "yes": "Ja",
-    "title": "Unexpected error occured",
-    "cancel": "Avbryt",
-    "submit": "Bekreft",
-    "leaving": "Er du sikker på du ønsker å forlate denne siden?",
-    "message": "Our team has been notified and currently is solving the issue",
-    "offline": "Du er offline!",
+    "no": "Όχι",
+    "ok": "ΟΚ",
+    "yes": "Ναι",
+    "title": "Προέκυψε μη αναμενόμενο σφάλμα",
+    "cancel": "Άκυρο",
+    "submit": "Υποβολή",
+    "leaving": "Θέλετε σίγουρα να αποχωρήσετε από αυτή την οθόνη;",
+    "message": "Η ομάδα μας έχει ειδοποιηθεί και προσπαθεί αυτή τη στιγμή να επιλύσει το πρόβλημα",
+    "offline": "Θέμα σύνδεσης",
     "gamstop_no": "Close",
     "gamstop_yes": "Contact support",
-    "payment_status": "Payment status",
+    "payment_status": "Κατάσταση πληρωμής",
     "characters_limit": "Må være mellom 3 og 30 karakterer"
   }
 }
