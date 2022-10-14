@@ -9,7 +9,7 @@
         "close": "Close",
         "reset": "Reset",
         "header": "{name} (GW{gameweek})",
-        "prizes": "Prizes",
+        "prizes": "Premier",
         "rank_of": "Rank {rank} of {teamCount}",
         "round_2": "Quarterfinals",
         "round_3": "Semifinals",
