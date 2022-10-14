@@ -1,0 +1,6 @@
+{
+  "socket": {
+    "online": "You are reconnected now!",
+    "offline": "You are offline, reconnecting..."
+  }
+}
