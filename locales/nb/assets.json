@@ -1,9 +1,9 @@
 {
   "assets": {
-    "demo": "Demo",
-    "teams": "Teams",
-    "prices": "Prices",
-    "seasons": "Seasons",
+    "demo": "demo",
+    "teams": "Lagene",
+    "prices": "Priser",
+    "seasons": "Sesonger",
     "team-stats": "Team Stats"
   }
 }
