@@ -8,7 +8,7 @@
     "draw": "Uavgjort",
     "duel": "Duel",
     "over": "over {value} {event}",
-    "match": "Totalt",
+    "match": "Total",
     "total": "Total  Over/Under of {event}",
     "under": "under {value} {event}",
     "double": "Double Chance",
