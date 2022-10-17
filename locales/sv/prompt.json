@@ -1,17 +1,17 @@
 {
   "prompt": {
-    "no": "No",
+    "no": "Nej",
     "ok": "OK",
-    "yes": "Yes",
-    "title": "Unexpected error occured",
-    "cancel": "Cancel",
-    "submit": "Submit",
-    "leaving": "Are you sure you want to leave this screen?",
-    "message": "Our team has been notified and currently is solving the issue",
-    "offline": "No internet connection. Please check your connection and try again.",
-    "gamstop_no": "Close",
-    "gamstop_yes": "Contact support",
-    "payment_status": "Payment status",
-    "characters_limit": "Must be between 3 and 30 characters"
+    "yes": "Ja",
+    "title": "Ett oväntat fel uppstod",
+    "cancel": "Avbryt",
+    "submit": "Skicka",
+    "leaving": "Är du säker på att du vill lämna skärmen?",
+    "message": "Vårt team har informerats och löser problemet för tillfället",
+    "offline": "Anslutningsproblem",
+    "gamstop_no": "Stäng",
+    "gamstop_yes": "Kontakta kundtjänsten",
+    "payment_status": "Betalningsstatus",
+    "characters_limit": "Måste vara mellan 3 och 30 tecken"
   }
 }
