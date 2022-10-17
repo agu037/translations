@@ -1,6 +1,6 @@
 {
   "socket": {
-    "online": "You are reconnected now!",
-    "offline": "You are offline, reconnecting..."
+    "online": "Du är återansluten nu!",
+    "offline": "Du är offline och återansluter..."
   }
 }
