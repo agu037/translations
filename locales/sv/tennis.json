@@ -1,6 +1,6 @@
 {
   "tennis": {
-    "freeze": "Please note: This is a freeze, seasonal tournament. This means that you will not be able to change your team once the tournament has started. Try to pick tennis players who goes deep in the tournament!",
+    "freeze": "Obs: Det här är en Freeze- och säsongsturnering. Det här innebär att du inte kan ändra ditt lag när turneringen har startat. Försök att välja tennisspelare som går långt i turneringen!",
     "universal": "Welcome to our new Tennis format - Universal 6! You need to pick any six athletes. Your captain will score x1.5 fantasy points, but costs x1.5 of his price. Your vice-captain will score x1.2 fantasy points, but costs x1.2 of his price. There are no changes to the scoring system.",
     "scoring.note": "This tournament is played with the new tennis scoring rules. In a case of a retirement before the match, the winning player will receive 32 points (+2.5 points for the win). If a player retires during the match, then ALL the remaining games & sets will be awarded to their opponent (no extra points will be given for breaks, aces and double faults)."
   }
