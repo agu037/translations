@@ -1,0 +1,29 @@
+{
+  "user": {
+    "male": "Male",
+    "role": "Role",
+    "bonus": "Bonus",
+    "female": "Female",
+    "gaming": "Gaming Transactions",
+    "success": "Successfully changed!",
+    "tickets": "Tournament Tickets",
+    "financial": "Financial Transactions",
+    "details.id": "ID",
+    "not_created": "Registration can not be completed now. Please try again later",
+    "slug_is_free": "Code is available",
+    "unauthorized": "User is unauthorized",
+    "details.email": "Email",
+    "details.title": "User Details",
+    "not_authorized": "To place a bet please log in to your account",
+    "details.address": "Address",
+    "details.fullname": "Full Name",
+    "details.location": "Location",
+    "details.username": "Username",
+    "super_admin_only": "Only Super admins can perform this action",
+    "details.created_at": "Created At",
+    "different_affiliate": "This user does not belong to your campaign",
+    "details.phone_number": "Phone",
+    "details.date_of_birth": "Date of birth",
+    "not-allowed.player_matchup_slips.create": "create"
+  }
+}
