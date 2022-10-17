@@ -1,8 +1,8 @@
 {
   "global": {
-    "service_notice_34": "Notice English",
-    "service_notice_41": "Test message",
-    "service_notice_44": "Should be Greek ID 44",
+    "service_notice_34": "Notis engelska",
+    "service_notice_41": "Testmeddelande",
+    "service_notice_44": "Ska vara grekisk ID 44",
     "override_pickem_coupon_name_5": "Edited name",
     "override_tournament_name_46093": "The week m",
     "override_tournament_name_46103": "New tournament test",
