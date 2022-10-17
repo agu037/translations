@@ -1,15 +1,15 @@
 {
   "common": {
     "ok": "OK",
-    "or": "Or",
-    "enter": "Enter",
-    "later": "Later",
-    "cancel": "Cancel",
-    "no_data": "No data yet",
-    "continue": "Continue",
-    "update_the_app": "Update the app",
-    "update_is_available": "Update is available",
+    "or": "Eller",
+    "enter": "Gå med",
+    "later": "Senare",
+    "cancel": "Avbryt",
+    "no_data": "Inga uppgifter ännu",
+    "continue": "Fortsätt",
+    "update_the_app": "Uppdatera appen",
+    "update_is_available": "Det finns en uppdatering",
     "app_update_available": "A new version of the app is now available. Please download the latest version of FanTeam from the App Store.",
-    "something_went_wrong_error": "Something went wrong"
+    "something_went_wrong_error": "Något gick fel"
   }
 }
