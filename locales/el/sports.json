@@ -1,6 +1,6 @@
 {
   "sports": {
-    "all": "Alle",
+    "all": "All",
     "lol": "League",
     "mma": "MMA",
     "tba": "Θα ανακοινωθεί",
@@ -18,7 +18,7 @@
     "baseball": "Μπέιζμπολ",
     "billiard": "Billiards",
     "football": "Ποδόσφαιρο",
-    "handball": "Håndball",
+    "handball": "Handball",
     "allSports": "Όλα τα αθλήματα",
     "all_sports": "Όλοι",
     "e_football": "Ε-Ποδόσφαιρο",
@@ -26,7 +26,7 @@
     "formula_one": "Μηχανοκίνητα",
     "rocket_runout": "Rocket Runout",
     "american_football": "Αμερ. Ποδόσφαιρο",
-    "live_matches_desc": "{amount} live renn",
+    "live_matches_desc": "{amount} live matches",
     "sport_selector_desc": "sport selector desc"
   }
 }
