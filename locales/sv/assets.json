@@ -1,9 +1,9 @@
 {
   "assets": {
     "demo": "Demo",
-    "teams": "Teams",
+    "teams": "Lag",
     "prices": "Prices",
-    "seasons": "Seasons",
-    "team-stats": "Team Stats"
+    "seasons": "Säsonger",
+    "team-stats": "Lagstatistik"
   }
 }
