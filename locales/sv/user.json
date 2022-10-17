@@ -1,9 +1,9 @@
 {
   "user": {
-    "male": "Male",
+    "male": "Man",
     "role": "Role",
     "bonus": "Bonus",
-    "female": "Female",
+    "female": "Kvinna",
     "gaming": "Gaming Transactions",
     "success": "Successfully changed!",
     "tickets": "Tournament Tickets",
@@ -13,17 +13,17 @@
     "slug_is_free": "Code is available",
     "unauthorized": "User is unauthorized",
     "details.email": "Email",
-    "details.title": "User Details",
+    "details.title": "Användaruppgifter",
     "not_authorized": "To place a bet please log in to your account",
-    "details.address": "Address",
-    "details.fullname": "Full Name",
-    "details.location": "Location",
-    "details.username": "Username",
+    "details.address": "Adress",
+    "details.fullname": "Fullständigt namn",
+    "details.location": "Plats",
+    "details.username": "Användarnamn",
     "super_admin_only": "Only Super admins can perform this action",
-    "details.created_at": "Created At",
+    "details.created_at": "Skapad",
     "different_affiliate": "This user does not belong to your campaign",
     "details.phone_number": "Phone",
-    "details.date_of_birth": "Date of birth",
+    "details.date_of_birth": "Födelsedatum",
     "not-allowed.player_matchup_slips.create": "create"
   }
 }
