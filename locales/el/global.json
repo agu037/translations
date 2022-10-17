@@ -1,7 +1,7 @@
 {
   "global": {
     "service_notice_34": "Notice Greek",
-    "service_notice_41": "norway",
+    "service_notice_41": "Test message",
     "service_notice_44": "Should be in English ID 44",
     "override_pickem_coupon_name_5": "Edited name",
     "override_tournament_name_46093": "The week m",
@@ -1296,7 +1296,7 @@
     "override_tournament_buyin_short_58386": "£1,000,000.00 Total Prizepool",
     "override_tournament_buyin_short_59388": "£100,000",
     "override_tournament_buyin_short_62971": "£100,000",
-    "override_tournament_buyin_short_171482": "€250.000 Garantert!",
+    "override_tournament_buyin_short_171482": "€250,000 Guaranteed!",
     "override_tournament_buyin_short_187712": "€100,000",
     "override_tournament_buyin_short_222021": "€116,000.00",
     "override_tournament_buyin_short_236826": "€116,000.00",
