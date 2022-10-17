@@ -1,5 +1,5 @@
 {
   "safety": {
-    "net.hockey": "IMPORTANT NOTICE: We are currently having issues with the safety net for hockey. Until further notice, it will NOT take into account clubs when replacing a goaltender. It will simply look for the best goaltender in the tournament, determined by the price. And of course, a replacement cannot cost more than the original player."
+    "net.hockey": "VIKTIGT: För tillfället har vi problem med säkerhetsnätet för hockey. Tillsvidare kommer den INTE att beakta klubbar när den ersätter en målvakt. Den letar helt enkelt efter turneringens bästa målvakt som avgörs av priset. Och naturligtvis kan en ersättare inte kosta mer än den ursprungliga spelaren."
   }
 }
