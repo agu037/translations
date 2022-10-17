@@ -1,0 +1,13 @@
+{
+  "common": {
+    "or": "Eller",
+    "enter": "Gå med",
+    "later": "Senare",
+    "cancel": "Avbryt",
+    "no_data": "Inga uppgifter ännu",
+    "continue": "Fortsätt",
+    "update_the_app": "Uppdatera appen",
+    "update_is_available": "Det finns en uppdatering",
+    "something_went_wrong_error": "Något gick fel"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "cashier": {
+    "show": "Visa",
+    "gaming": "Speltransaktioner",
+    "betslip": "Insatskupong",
+    "deposit": "Insättning",
+    "tickets": "Turneringsbiljetter",
+    "withdraw": "Uttag",
+    "financial": "Finsansiella transaktioner",
+    "used_tickets": "Arkiverade biljetter",
+    "availiable_tickets": "Biljetter tillgängliga",
+    "gamingTransactions": "Speltransaktioner",
+    "available_tournaments": "Tillgängliga turneringar",
+    "financialTransactions": "Finsansiella transaktioner"
+  }
+}

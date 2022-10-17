@@ -1,0 +1,32 @@
+{
+  "lineups": {
+    "bench": "Bekräftad på bänk",
+    "title": "Alla lag",
+    "refuted": "Spelar inte",
+    "expected": "Förväntas starta",
+    "possible": "Spelaren kan starta",
+    "all_teams": "Alla lag",
+    "confirmed": "Bekräftad laguppställning",
+    "odds_count": "Insatser",
+    "unexpected": "Förväntas inte starta",
+    "no_expected": "Inga förväntade laguppställningar ännu",
+    "last_updated": "Senast uppdaterat:",
+    "positions.women": "DAM",
+    "positions.youth": "DU",
+    "positions.batman": "Slagman",
+    "positions.bowler": "Kastare",
+    "positions.captain": "KAP",
+    "positions.forward": "ANF",
+    "positions.defender": "FÖR",
+    "positions.male_lead": "Manlig lead",
+    "positions.male_skip": "Manlig skip",
+    "positions.goalkeeper": "MV",
+    "positions.midfielder": "MF",
+    "positions.female_lead": "Kvinnlig lead",
+    "positions.female_skip": "Kvinnlig skip",
+    "positions.male_second": "Manlig andra",
+    "positions.female_second": "Kvinnlig andra",
+    "positions.male_vice_skip": "Manlig tredje",
+    "positions.female_vice_skip": "Kvinnlig tredje"
+  }
+}

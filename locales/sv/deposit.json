@@ -1,0 +1,20 @@
+{
+  "deposit": {
+    "back": "Tillbaka",
+    "error": "Ett fel har uppstått",
+    "amount": "Summa",
+    "custom": "Anpassad",
+    "select": "Välj betalningsmetod",
+    "working": "Vårt team jobbar på det just nu",
+    "continue": "Fortsätt",
+    "happened": "Någonting hände. Vi ber om ursäkt för problemet.",
+    "how_much": "Hur mycket vill du sätta in?",
+    "problems": "Om du får problem, kontakta",
+    "selectSum": "Välj summa",
+    "bonus.code": "Bonuskod",
+    "helperAmount": "Du kan välja en summa mellan {min} och {max}",
+    "bonusInfo.gain": "{bonusAmount} till ditt bonuskonto ({bonusPercent}% av insatt belopp men inte mer än {bonusLimit})",
+    "bonusInfo.title": "Den här bonusen ger dig:",
+    "bonusInfo.toggleBonus": "Jag har en bonuskod"
+  }
+}

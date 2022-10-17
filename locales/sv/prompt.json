@@ -1,0 +1,16 @@
+{
+  "prompt": {
+    "no": "Nej",
+    "yes": "Ja",
+    "title": "Ett oväntat fel uppstod",
+    "cancel": "Avbryt",
+    "submit": "Skicka",
+    "leaving": "Är du säker på att du vill lämna skärmen?",
+    "message": "Vårt team har informerats och löser problemet för tillfället",
+    "offline": "Anslutningsproblem",
+    "gamstop_no": "Stäng",
+    "gamstop_yes": "Kontakta kundtjänsten",
+    "payment_status": "Betalningsstatus",
+    "characters_limit": "Måste vara mellan 3 och 30 tecken"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "stats": {
+    "totalPoints_desc": "Sortera efter totala poäng",
+    "columns.currentPrice": "NP",
+    "columns.redCardCount": "RK",
+    "tooltips.currentPrice": "Nuvarande pris",
+    "tooltips.redCardCount": "Röda kort",
+    "columns.cleanSheetCount": "RB",
+    "columns.yellowCardCount": "GK",
+    "tooltips.cleanSheetCount": "Antal rena bur",
+    "tooltips.yellowCardCount": "Gula kort"
+  }
+}

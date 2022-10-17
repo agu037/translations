@@ -1,5 +1,5 @@
 const fs = require('fs')
-const code = 'el'
+const code = 'sv'
 const lang = require(`./${code}.json`)
 
 for(const [scope, keys] of Object.entries(lang)) {

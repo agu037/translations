@@ -1,0 +1,16 @@
+{
+  "my_bets": {
+    "won": "Vinst",
+    "draw": "Oavgjort",
+    "type": "Speltyp",
+    "multi": "Flerval ({size})",
+    "stake": "Insats",
+    "payout": "Utbetalning",
+    "single": "Singelspel",
+    "betslip": "Insatskupong ID",
+    "created": "Spel placerat på",
+    "pending": "Avvaktande",
+    "selection": "Val",
+    "description": "Beskrivning"
+  }
+}

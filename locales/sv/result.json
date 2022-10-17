@@ -1,0 +1,19 @@
+{
+  "result": {
+    "goal": "Mål",
+    "own_goal": "Självmål",
+    "red_card": "Rött kort",
+    "assist_tbi": "Assisten ska undersökas",
+    "keeper_save": "Målvaktsräddning",
+    "yellow_card": "Gult kort",
+    "penalty_miss": "Missad straff",
+    "penalty_save": "Straff räddad",
+    "fantasy_assist": "Fantasyassist",
+    "penalty_caused": "Orsakade en straff",
+    "freekick_caused": "Mål på frispark orsakad",
+    "man_of_the_match": "Matchens lirare",
+    "penalty_round_goal": "Mål på straffar",
+    "penalty_round_miss": "Miss på straffar",
+    "penalty_round_save": "Räddning på straffar"
+  }
+}

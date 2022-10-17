@@ -1,0 +1,7 @@
+{
+  "prizes": {
+    "prizes": "Priser i turneringen",
+    "place_single": "Rankning {place}",
+    "place_grouped": "Rankning {from}–{to}"
+  }
+}

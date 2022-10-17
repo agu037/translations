@@ -1,0 +1,26 @@
+{
+  "front": {
+    "news": "nyheter",
+    "team": "eget lag",
+    "users": "användare",
+    "create": "Skapa din",
+    "created": "skapad",
+    "you_are": "Du är",
+    "play_now": "Spela nu",
+    "register": "Registrera dig nu",
+    "team_text": "Du väljer spelare från de riktiga lagen med en fast budget och får poäng baserat på hur de presterar i de riktiga matcherna.",
+    "registered": "registrerad",
+    "description": "Norsk Tipping driver en fantasypilot under EM 2016, i samarbete med Global IT Development AS.",
+    "team_manager": "lagets tränare",
+    "features_title": "Delta i de officiella Norsk Tipping-turneringarna",
+    "tournament_for": "av turneringar",
+    "tournament_text": "Vi har turneringar som pågår från gruppspel till finalomgångar samt dagliga turneringar.",
+    "tournament_types": "Olika typer",
+    "create_tournament": "Skapa din turnering",
+    "see_more_articles": "Se fler artiklar",
+    "team_manager_text": "Fantasy är en snabbt ökande speltyp där du bestämmer över ditt eget lag.",
+    "private_tournaments": "privata turneringar",
+    "see_more_tournaments": "Se fler turneringar",
+    "what_fantasy_betting": "Vad är fantasyspel?"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "chat": {
+    "send": "Skicka",
+    "censored": "<borttagen>",
+    "add_message": "Meddelande",
+    "muted_message": "En admin har tillfälligt stängt av din möjlighet att skicka meddelanden. Avstängningen kommer att upphöra:",
+    "hide_modal.yes": "Ja",
+    "minimized_header": "Turneringschatt",
+    "mute_modal.hours": "Tider",
+    "hide_modal.cancel": "Ångra",
+    "hide_modal.header": "Dölj meddelade",
+    "mute_modal.header": "Tysta användare",
+    "mute_modal.mute_user": "Tysta användare (username) för:",
+    "mute_modal.muted_until": "Denna användare är tystad fram till:",
+    "hide_modal.confirmation": "Är du säker på att du vill dölja det här meddelandet?"
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "admin": {
+    "navigation.cost": "Kostnad",
+    "navigation.players": "Spelare",
+    "navigation.fixtures": "Tävlingar",
+    "navigation.live-results": "Liveresultat"
+  }
+}

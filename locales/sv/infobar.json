@@ -1,0 +1,28 @@
+{
+  "infobar": {
+    "line.1L": "1:a linjen",
+    "line.2L": "2:a linjen",
+    "line.3L": "3:e linjen",
+    "line.4L": "4:e linjen",
+    "role.top": "Topp",
+    "ppLine.1PP": "1:a powerplay-enheten",
+    "ppLine.2PP": "2:a powerplay-enheten",
+    "role.Middle": "Mitten",
+    "role.bottom": "Botten",
+    "role.middle": "Mitten",
+    "battingOrder.1": "1:a slagman",
+    "battingOrder.2": "2:a slagman",
+    "battingOrder.3": "3:e slagman",
+    "battingOrder.4": "4:e slagman",
+    "battingOrder.5": "5:e slagman",
+    "battingOrder.6": "6:e slagman",
+    "battingOrder.7": "7:e slagman",
+    "battingOrder.8": "8:e slagman",
+    "battingOrder.9": "9:e slagman",
+    "role.undefined": "Roll inte specificerad",
+    "weightClass.light": "Lättvikt",
+    "weightClass.bantam": "Bantamvikt",
+    "weightClass.feather": "Fjädervikt",
+    "weightClass.lightheavy": "Lätt tungvikt"
+  }
+}

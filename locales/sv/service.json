@@ -1,0 +1,18 @@
+{
+  "service": {
+    "id": "ID",
+    "hidden": "Dold",
+    "actions": "Åtgärder",
+    "content": "Innehåll",
+    "end_time": "Sluttid",
+    "user_ids": "Användar-ID",
+    "add-notice": "Lägg till notis",
+    "new-notice": "Servicemeddelande",
+    "start_time": "Starttid",
+    "edit-notice": "Redigera notis",
+    "target_type": "Måltyp",
+    "content_level": "Innehållsnivå",
+    "target_pattern": "Målmönster",
+    "white_label_ids": "Vit etikett-ID"
+  }
+}

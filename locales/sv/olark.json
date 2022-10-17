@@ -1,0 +1,10 @@
+{
+  "olark": {
+    "welcome_title": "Klicka här för att chatta",
+    "chatting_title": "Skriver nu",
+    "welcome_message": "Välkommen till Fanteams chatt. Du kan använda det här fönstret för att chatta med vår support.",
+    "email_input_text": "<Click here> och skriv in din E-post",
+    "introduction_error_text": "Lämna namn och E-postadress så vi kan kontakta dig ifall vi blir nedkopplad",
+    "offline_note_error_text": "Du måste fylla i alla fält och skriva in en giltig E-post"
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "users": {
+    "city": "Stad",
+    "role": "Roll",
+    "email": "E-post",
+    "gender": "Kön",
+    "country": "Land",
+    "campaign": "Kampanj",
+    "external": "Detaljer",
+    "lastName": "Efternamn",
+    "lockedAt": "Låst",
+    "username": "Användarnamn",
+    "firstName": "Förnamn",
+    "confirmedAt": "Verifierad datum",
+    "dateOfBirth": "Födelsedatum",
+    "save_page_csv": "Exportera till CSV",
+    "verify_lockedAt": "Lås användare",
+    "unverify_lockedAt": "Lås upp användare",
+    "verify_confirmedAt": "Verifiera manuellt"
+  }
+}

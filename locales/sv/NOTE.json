@@ -1,0 +1,13 @@
+{
+  "note": {
+    "48685": "Bonus för vunna kartor i följd (Ba3): 2x slutliga kartpoäng.",
+    "csgo": "Obs! CSGO har nu ersättningspoäng. Spelare som inte spelar alla kartorna får en ersättning baserad på deras lagkamraters prestationer på kartorna som saknas. Läs mer om det på supportsidorna. Turneringen spelas bäst av 3. Vanliga poängregler gäller, inklusive kartbonusar och vunna nettospel. Lag som spelar 2 kartor (2–0 eller 0–2 resultat) får sina poäng ökade med 50 %.",
+    "basket": "Obs! Säkerhetsnätet för basket är inte tillgängligt för tillfället. Vi hör av oss när det är i drift.",
+    "csgo_TV": "Obs! På senare tid har Nivera satts in för att spela för Team Vitality under matcher och ersätter en av deras listade spelare. Observera att du i sådana fall bara får poäng insamlade av din valda spelare, såvida inte Nivera spelar hela matchen, då kommer din spelare att ersättas av Nivera i ditt lag.",
+    "dotabo2": "Obs! Matcherna spelas i formatet bäst av 2 kartor och i sådana spel har vi ingen bonus för vunna kartor i följd. Det är det nya DOTA 2-formatet där vi har gjort många ändringar i poängreglerna. Ta en titt på supportsidorna för att bekanta dig med dem.",
+    "dotabo3": "Obs! Bonusen för vunna kartor i följd gäller. Om en match slutar med 2–0 får båda lagen ytterligare 50 % poäng. Det är det nya DOTA 2-formatet där vi har gjort många ändringar i poängreglerna. Ta en titt på supportsidorna för att bekanta dig med dem.",
+    "dotabo5": "Obs! Bonusen för vunna kartor i följd gäller. Om en match slutar med 3–0 får båda lagen ytterligare 70 % poäng. Bonusen för att bara förlora en karta i Ba5: 0,25x totala poängen. Det är det nya DOTA 2-formatet där vi har gjort många ändringar i poängreglerna. Ta en titt på supportsidorna för att bekanta dig med dem.",
+    "cs.season": "Obs! Det här är en turnering med 5 spelomgånger. En övergång per runda (staplar upp till 2) utan ytterligare övergångar. Bonusen för vunna kartor i följd gäller även för laget som förlorade. Det är möjligt att gå med i turneringen fram till att andra omgången startar (spelomgång 7). Om du gör det börjar du med poäng som motsvarar 80 % av det genomsnittliga antalet poäng i första omgången.",
+    "cs.season.groupc": "Obs! Det här är en turnering med 3 spelveckor. Du tilldelas 2 jokerkort, första efter SV1 och andra efter SV2, för att göra obegränsade övergångar. Bonusen för kartor i följd gäller även för laget som förlorade."
+  }
+}

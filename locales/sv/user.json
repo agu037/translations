@@ -1,0 +1,13 @@
+{
+  "user": {
+    "male": "Man",
+    "female": "Kvinna",
+    "details.title": "Användaruppgifter",
+    "details.address": "Adress",
+    "details.fullname": "Fullständigt namn",
+    "details.location": "Plats",
+    "details.username": "Användarnamn",
+    "details.created_at": "Skapad",
+    "details.date_of_birth": "Födelsedatum"
+  }
+}

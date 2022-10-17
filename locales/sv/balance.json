@@ -1,0 +1,18 @@
+{
+  "balance": {
+    "current": "Saldo",
+    "deposit": "Kassan",
+    "in_play": "Pågår",
+    "tickets": "Biljetter",
+    "add_deposit": "Lägg till insättning",
+    "head_in_play": "pågår",
+    "verification": "Verifiering",
+    "statuses.pending": "Pågående",
+    "statuses.unknown": "Okänd",
+    "statuses.verified": "Verifierad",
+    "statuses.corrected": "Rättad",
+    "statuses.incorrect": "Felaktig",
+    "statuses.in_process": "Pågående",
+    "statuses.not_verified": "Ännu inte verifierad"
+  }
+}

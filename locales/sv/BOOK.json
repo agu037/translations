@@ -1,0 +1,17 @@
+{
+  "book": {
+    "draw": "Oavgjort",
+    "save": "Spara",
+    "goals": "Mål",
+    "points": "Poäng",
+    "remove": "Ta bort",
+    "disable": "Inaktivera",
+    "red_card": "Rött kort",
+    "liability": "Ansvar",
+    "total_stake": "Insats",
+    "yellow_card": "Gult kort",
+    "average_odds": "medel",
+    "yellow_cards": "Gula kort",
+    "potential_loss": "förlust"
+  }
+}

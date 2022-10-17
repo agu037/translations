@@ -1,0 +1,22 @@
+{
+  "books": {
+    "win": "Att vinna:",
+    "draw": "Oavgjort",
+    "over": "Över {value} {event}",
+    "under": "Under {value} {event}",
+    "double": "DUBBELCHANS",
+    "points": "Fantasypoäng",
+    "duels.over": "Över",
+    "no_draw_match": "OAVGJORT-INGET SPEL",
+    "book.duel.points": "Att vinna duell vs.",
+    "book.match.goals": "Matchvinnare",
+    "book.pivot.goals": "Gör mål",
+    "book.match.points": "Poäng",
+    "book.pivot.points": "Över/Under {value} fantasypoäng.",
+    "away_team_to_score": "BORTALAGET ATT GÖRA MÅL",
+    "both_team_to_score": "BÅDA LAGEN GÖR MÅL",
+    "home_team_to_score": "HEMMALAG ATT GÖRA MÅL",
+    "book.pivot.yellow_card": "Gult kort",
+    "team_over_under_x_amount": "{name} ÖVER/UNDER ANTAL MÅL"
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "new": {
+    "pursuit_note": "Det här är en jaktstart-turnering med stacking-avdrag. Du kan läsa mer om det på supportsidorna.",
+    "universal_note": "Detta är vårt Universal 6-format för fotboll. Välj 6 spelare från valfri position, samtidigt som du håller dig inom budgeten. Kaptener och vicekaptener får 1,5x och 1,2x mer, men de kostar också 50% respektive 20% mer! säkerhetsnät och stackingstraff gäller fortfarande.",
+    "any5.basket_note": "Det här är det nya jaktstart-läget! Nu kan du direkt se alla spelares bonuspoäng bredvid deras namn. Du kan fortfarande välja vilka spelare du vill och summan av deras bonuspoäng kommer att visas i panelen högst upp som tidigare. Spelare kan ha positiva (+) eller negativa (-) bonuspoäng. Kaptenerna (x2) och vicekaptenerna (1,5x) får deras bonuspoäng och totalpoäng multiplicerade med 2 och 1,5."
+  }
+}

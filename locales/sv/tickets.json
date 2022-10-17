@@ -1,0 +1,32 @@
+{
+  "tickets": {
+    "open": "Öppen biljett",
+    "type": "Typ",
+    "used": "Använd för",
+    "user": "Användare",
+    "buyIn": "Värde",
+    "dueAt": "Används/upphört",
+    "dueIn": "Förfaller",
+    "due_at": "Förfaller",
+    "expire": "Förfaller",
+    "remove": "Ta bort",
+    "unused": "Oanvänd",
+    "comment": "Kommentar",
+    "deleted": "Borttagen",
+    "approver": "Godkännare",
+    "used_for": "Deltog (visa lag)",
+    "createdAt": "Skapad",
+    "show_more": "Visa mer",
+    "created_at": "Given den",
+    "tournament": "Turnering",
+    "updated_at": "Datum som används",
+    "unregistred": "Laget avregistrerat",
+    "are_you_sure": "Är du säker på att du vill ta bort den här biljetten?",
+    "view_tickets": "Visa",
+    "any_tournament": "Öppen biljett",
+    "no_tournaments": "Inga turneringar",
+    "do_not_have_transactions": "Du har inga turneringsbiljetter",
+    "do_not_have_available_transactions": "Du har inga tillgängliga turneringsbiljetter",
+    "do_not_have_unavailable_transactions": "Du har inga arkiverade turneringsbiljetter"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "error": {
+    "unknown_error": "För lite pengar!",
+    "user.slugInUse": "Koden används, prova en annan",
+    "not_enough_money": "För lite pengar",
+    "user_unauthorized": "Något gick snett. Försök logga ut och in igen.",
+    "insufficient_funds": "För lite pengar",
+    "phoneNumber.tooLong": "Telefonnumret är för långt!",
+    "error_is_not_defined": "Felet har inte definierats",
+    "please_deposit_funds": "sätt in pengar",
+    "internal_server_error": "Internt serverfel",
+    "message_unverified_user": "Overifierad användare",
+    "error_bet_user_suspended_message_bet_user_suspended": "Du kan inte delta p.g.a. ett avstängt konto. Kontakta kundtjänsten för mer information.",
+    "error_bet_user_cant_afford_message_bet_user_cant_afford": "För lite pengar",
+    "error_bet_user_minimum_odds_message_bet_user_minimum_odds": "Du har inte tillräckligt med pengar och oddset är för lågt för att använda ditt bonussaldo",
+    "error_bet_user_pep_required_message_bet_user_pep_required": "Säkerhetskontrollen misslyckades för användaren. Kontakta kundtjänsten om det inte är korrekt",
+    "error_bet_user_identity_required_message_bet_user_identity_required": "Identitetskontrollen misslyckades för användaren. Kontakta kundtjänsten om det inte är korrekt"
+  }
+}
