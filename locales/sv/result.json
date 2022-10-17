@@ -1,20 +1,20 @@
 {
   "result": {
-    "goal": "Goal",
+    "goal": "Mål",
     "assist": "Assist",
-    "own_goal": "Own goal",
-    "red_card": "Red card",
-    "assist_tbi": "Assist to be investigated",
-    "keeper_save": "Keeper save",
-    "yellow_card": "Yellow card",
-    "penalty_miss": "Penalty missed",
-    "penalty_save": "Penalty saved",
-    "fantasy_assist": "Fantasy Assist",
-    "penalty_caused": "Caused a penalty",
-    "freekick_caused": "Scoring freekick caused",
-    "man_of_the_match": "Man of the Match",
-    "penalty_round_goal": "Goal in penalty shoot out",
-    "penalty_round_miss": "Miss in penalty shoot out",
-    "penalty_round_save": "Save in penalty shoot out"
+    "own_goal": "Självmål",
+    "red_card": "Rött kort",
+    "assist_tbi": "Assisten ska undersökas",
+    "keeper_save": "Målvaktsräddning",
+    "yellow_card": "Gult kort",
+    "penalty_miss": "Missad straff",
+    "penalty_save": "Straff räddad",
+    "fantasy_assist": "Fantasyassist",
+    "penalty_caused": "Orsakade en straff",
+    "freekick_caused": "Mål på frispark orsakad",
+    "man_of_the_match": "Matchens lirare",
+    "penalty_round_goal": "Mål på straffar",
+    "penalty_round_miss": "Miss på straffar",
+    "penalty_round_save": "Räddning på straffar"
   }
 }
