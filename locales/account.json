@@ -1,8 +1,0 @@
-{
-  "account": {
-    "pep_checked": "Deposits it not allowed. Contact support team for further information.",
-    "pep_required": "Security check is failed for the user. If this is not correct, please contact support",
-    "identity_required": "Identity check is failed for the user. If this is not correct, please contact support",
-    "widthdrawal_week_limit": "Widthdrawal weekly limit exceeded"
-  }
-}
