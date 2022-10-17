@@ -12,6 +12,6 @@
     "gamstop_no": "Close",
     "gamstop_yes": "Contact support",
     "payment_status": "Κατάσταση πληρωμής",
-    "characters_limit": "Må være mellom 3 og 30 karakterer"
+    "characters_limit": "Must be between 3 and 30 characters"
   }
 }
