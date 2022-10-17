@@ -27,6 +27,7 @@
     "rocket_runout": "Rocket Runout",
     "american_football": "NFL",
     "live_matches_desc": "{amount} live matches",
-    "sport_selector_desc": "sport selector desc"
+    "sport_selector_desc": "sport selector desc",
+    "cc_ski": "Cross-country skiing"
   }
 }
