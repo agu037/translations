@@ -1,6 +1,6 @@
 {
   "single": {
-    "match.csgo.note": "Please note! This is a single match tournament where the match is played best of 3 maps or best of 5 match. In such tournaments, we don't have Straight Map Bonus, Losing Only One Map Bonus, or Net Games Won points. Overtime Penalty is now activated. All players receive a 1.5 point penalty for each Overtime Round in the match.",
-    "match.dota.note": "Please note! This is a single match tournament where the match is played best of 3 maps or best of 5 match. In such tournaments, we don't have Straight Map Bonus or Losing Only One Map Bonus."
+    "match.csgo.note": "Obs! Det här är en turnering på en match där matchen spelas på bäst av 3 kartor eller bäst av 5 matcher. I sådana turneringar har vi ingen bonus för vunna kartor i följd, bonus för att bara förlora en karta eller poäng från vunna nettospel.",
+    "match.dota.note": "Obs! Det här är en turnering på en match där matchen spelas på bäst av 3 kartor eller bäst av 5 matcher. I sådana turneringar har vi ingen bonus för vunna kartor i följd eller bonus för att bara förlora en karta."
   }
 }
