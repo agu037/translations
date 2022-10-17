@@ -1,6 +1,6 @@
 {
   "switch": {
-    "close": "close",
-    "user_created": "user created"
+    "close": "stäng",
+    "user_created": "användare skapad"
   }
 }
