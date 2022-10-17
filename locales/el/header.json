@@ -34,7 +34,7 @@
     "invalid_login": "Έχετε πληκτρολογήσει λάθος email ή κωδικό πρόσβασης",
     "notifications": "Ειδοποιήσεις",
     "team_managing": "Διαχείριση ομάδας",
-    "refer_and_earn": "Verv en venn",
+    "refer_and_earn": "Refer a Friend",
     "routes.cashier": "Ταμείο",
     "routes.default": "FanTeam",
     "routes.gameweek": "Dashboard",
@@ -44,7 +44,7 @@
     "routes.edit-team": "Επεξεργασία ομάδας",
     "routes.financial": "Ταμείο",
     "routes.not-found": "Page Not Found",
-    "holiday_promotion": "## Nedtelling til Julaften\n\nVelkommen til denne kampanjen! Logg in på Fanteam.com så mange dager som mulig før Julaften, og motta gratis billetter til\n\n### Boxing Day €1,050 GTD WCOFF Freeroll!",
+    "holiday_promotion": "## Christmas Countdown\n\nWelcome to this promotion! Log in to Fanteam for as many days as possible before Christmas and receive tickets to the\n\n### Boxing Day €1,050 GTD WCOFF Freeroll!",
     "routes.my-profile": "Ρυθμίσεις",
     "sign_up_or_log_in": "Σύνδεση/Εγγραφή",
     "start_walkthrough": "Οδηγός \"Πώς να παίξετε\"",
@@ -72,8 +72,8 @@
     "navigation_v3.bracket-game": "Predictor",
     "featured_tournament_'62816'": "test test",
     "verification_bar.in_process": "in process",
-    "holiday_promotion.days_until": "**{daysUntil}** Dager til neste billett",
-    "holiday_promotion.current_days": "**{loggedInDays}** Dager logget inn",
-    "holiday_promotion.tickets_so_far": "Antall billetter opptjent: **{ticketsSofar}**"
+    "holiday_promotion.days_until": "**{daysUntil}** Days until next ticket",
+    "holiday_promotion.current_days": "**{loggedInDays}** Days logged in",
+    "holiday_promotion.tickets_so_far": "Tickets earned so far: **{ticketsSofar}**"
   }
 }
