@@ -1,16 +1,16 @@
 {
   "note": {
-    "48685": "Straight maps bonus (Bo3): 2x Final map points.",
-    "csgo": "Overtime Penalty is now activated. All players receive a 1.5 point penalty for each Overtime Round in the match.",
-    "basket": "Please note! Safety Net for basketball is not available at the moment. We will let you know once it is operational.",
+    "48685": "Bonus för vunna kartor i följd (Ba3): 2x slutliga kartpoäng.",
+    "csgo": "Obs! CSGO har nu ersättningspoäng. Spelare som inte spelar alla kartorna får en ersättning baserad på deras lagkamraters prestationer på kartorna som saknas. Läs mer om det på supportsidorna. Turneringen spelas bäst av 3. Vanliga poängregler gäller, inklusive kartbonusar och vunna nettospel. Lag som spelar 2 kartor (2–0 eller 0–2 resultat) får sina poäng ökade med 50 %.",
+    "basket": "Obs! Säkerhetsnätet för basket är inte tillgängligt för tillfället. Vi hör av oss när det är i drift.",
     "csgo12": "Test test",
     "huhuhu": "use this link pls https://app.asana.com/0/1174663933715009/list",
-    "csgo_TV": "Please note! Lately, Nivera has been brought in to play for Team Vitality during matches, replacing one of their listed players. Please note that in such cases you will only receive points accumulated by your selected player, unless Nivera plays the whole match, in which case your player will be replaced by Nivera in your team",
-    "dotabo2": "Please note! These matches are played in a Best of 2 Maps format, in such games we do not have straight map bonus. This is the new DOTA2  format, where we have made many changes to the scoring rules. Please take a look at the support pages to familiarize yourself with them.",
-    "dotabo3": "Please note! Straight map bonus applies. If a match ends 2-0, then players of both teams will receive an extra 50% points. This is the new DOTA2 format, where we have made many changes to the scoring rules. Please take a look at the support pages to familiarize yourself with them.",
-    "dotabo5": "Please note! Straight map bonus applies. If a match ends 3-0, then players of both teams will receive an extra 70% points. Losing only one map bonus in Bo5: 0.25x total points. This is the new DOTA2 format, where we have made many changes to the scoring rules. Please take a look at the support pages to familiarize yourself with them.",
+    "csgo_TV": "Obs! På senare tid har Nivera satts in för att spela för Team Vitality under matcher och ersätter en av deras listade spelare. Observera att du i sådana fall bara får poäng insamlade av din valda spelare, såvida inte Nivera spelar hela matchen, då kommer din spelare att ersättas av Nivera i ditt lag.",
+    "dotabo2": "Obs! Matcherna spelas i formatet bäst av 2 kartor och i sådana spel har vi ingen bonus för vunna kartor i följd. Det är det nya DOTA 2-formatet där vi har gjort många ändringar i poängreglerna. Ta en titt på supportsidorna för att bekanta dig med dem.",
+    "dotabo3": "Obs! Bonusen för vunna kartor i följd gäller. Om en match slutar med 2–0 får båda lagen ytterligare 50 % poäng. Det är det nya DOTA 2-formatet där vi har gjort många ändringar i poängreglerna. Ta en titt på supportsidorna för att bekanta dig med dem.",
+    "dotabo5": "Obs! Bonusen för vunna kartor i följd gäller. Om en match slutar med 3–0 får båda lagen ytterligare 70 % poäng. Bonusen för att bara förlora en karta i Ba5: 0,25x totala poängen. Det är det nya DOTA 2-formatet där vi har gjort många ändringar i poängreglerna. Ta en titt på supportsidorna för att bekanta dig med dem.",
     "huhuhut": "hey new page [I'm an inline-style link](https://www.google.com){target=\"_blank\"}",
-    "cs.season": "Please note! This is a 5 gameweek tournament. One transfer per round (stacks up to 2) with no additional transfers. Straight map bonus now applies to the losing team as well. It is possible to join the tournament up until the start of the second round (gameweek 7). If you do so, then you will start with points equal to 80% of the average first-round score.",
-    "cs.season.groupc": "Please note! This is a 3 gameweek tournament. You will receive 2 wildcards, first after GW1 and second after GW2 to make unlimited transfers. Straight map bonus now applies to the losing team as well."
+    "cs.season": "Obs! Det här är en turnering med 5 spelomgånger. En övergång per runda (staplar upp till 2) utan ytterligare övergångar. Bonusen för vunna kartor i följd gäller även för laget som förlorade. Det är möjligt att gå med i turneringen fram till att andra omgången startar (spelomgång 7). Om du gör det börjar du med poäng som motsvarar 80 % av det genomsnittliga antalet poäng i första omgången.",
+    "cs.season.groupc": "Obs! Det här är en turnering med 3 spelveckor. Du tilldelas 2 jokerkort, första efter SV1 och andra efter SV2, för att göra obegränsade övergångar. Bonusen för kartor i följd gäller även för laget som förlorade."
   }
 }
