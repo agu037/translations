@@ -1,18 +1,18 @@
 {
   "service": {
-    "id": "Id",
-    "hidden": "Hidden",
-    "actions": "Actions",
-    "content": "Content",
-    "end_time": "End Time",
-    "user_ids": "User Id",
-    "add-notice": "Add notice",
-    "new-notice": "Service-notice",
-    "start_time": "Start Time",
-    "edit-notice": "Edit notice",
-    "target_type": "Target type",
-    "content_level": "Content Level",
-    "target_pattern": "Terget pattern",
-    "white_label_ids": "White-label ID"
+    "id": "ID",
+    "hidden": "Dold",
+    "actions": "Åtgärder",
+    "content": "Innehåll",
+    "end_time": "Sluttid",
+    "user_ids": "Användar-ID",
+    "add-notice": "Lägg till notis",
+    "new-notice": "Servicemeddelande",
+    "start_time": "Starttid",
+    "edit-notice": "Redigera notis",
+    "target_type": "Måltyp",
+    "content_level": "Innehållsnivå",
+    "target_pattern": "Målmönster",
+    "white_label_ids": "Vit etikett-ID"
   }
 }
