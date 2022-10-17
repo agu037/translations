@@ -31,8 +31,8 @@
     "malaysia_predictor": "Piala Malaysia Predictor",
     "nrk_winter_manager": "nrk winter manager",
     "scout_gaming_group": "scout gaming group",
-    "participation_closed": "Deltakelse er lukket",
-    "statistics_heading_desc": "Statistikk for {round}",
+    "participation_closed": "Participation closed",
+    "statistics_heading_desc": "Statistic for {round}",
     "leaderboard_heading_desc": "Leaderboard top 10"
   }
 }
