@@ -1,9 +1,9 @@
 {
   "assets": {
-    "demo": "demo",
-    "teams": "Lagene",
+    "demo": "Demo",
+    "teams": "Teams",
     "prices": "Τιμές",
-    "seasons": "Sesonger",
+    "seasons": "Seasons",
     "team-stats": "Team Stats"
   }
 }
